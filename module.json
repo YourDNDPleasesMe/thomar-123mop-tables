@@ -1,0 +1,18 @@
+{   
+   "name": "thomar-123mop-tables",   
+   "title": "thomar-123mop-tables",   
+   "description": "Tables from u/thomar and u/123mop provided on reddit and compiled into tables by u/YourDNDPleasesMe",   
+   "author": "YourDNDPleasesMe",
+   "version": "1.0.0",
+   "minimumCoreVersion": "9",
+   "compatibleCoreVersion":"9",
+   "packs": [
+    {
+      "name": "RollTable",
+      "label": "thomar's and 123mop's magic weapons",
+      "path": "packs/RollTable.db",
+      "entity": "RollTable",
+      "module": "thomar-123mop-tables"
+    }
+	]
+ }
